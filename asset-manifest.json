@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Advance-Test-32Health.care/static/css/main.6b118a3c.css",
+    "main.js": "/React-Advance-Test-32Health.care/static/js/main.f2605c89.js",
+    "static/js/787.4646bd68.chunk.js": "/React-Advance-Test-32Health.care/static/js/787.4646bd68.chunk.js",
+    "index.html": "/React-Advance-Test-32Health.care/index.html",
+    "main.6b118a3c.css.map": "/React-Advance-Test-32Health.care/static/css/main.6b118a3c.css.map",
+    "main.f2605c89.js.map": "/React-Advance-Test-32Health.care/static/js/main.f2605c89.js.map",
+    "787.4646bd68.chunk.js.map": "/React-Advance-Test-32Health.care/static/js/787.4646bd68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b118a3c.css",
+    "static/js/main.f2605c89.js"
+  ]
+}
